@@ -1,4 +1,1 @@
-# brightpln-native
-Progress BRIGHT PLN DAY 140
-
-Dh Bulan Maret Nih
+5 MEI 2023
