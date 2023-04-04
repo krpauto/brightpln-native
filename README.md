@@ -7,4 +7,3 @@ Logbook Magang Per Minggu
 Logbook Magang Per Bulan
 Laporan Umpan Balik Magang Mahasiswa
 Laporan Umpan Balik Magang Industri
-Proyek Akhir???????????
